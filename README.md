@@ -16,3 +16,11 @@ JavaScript学習用リポジトリです。  
 1. 現場で必要な知識を学ぶ（JQuery、Lo-dash、モジュールパターン、Webpack等）
 1. ES2016を学ぶ（[速習ECMAScript6: 次世代の標準JavaScriptを今すぐマスター！](http://amzn.asia/ftCadmE)）
 1. TypeScriptを学ぶ（この勉強会では基礎的なことだけ）
+
+# みんなのJSfiddle
+[目黒さん](https://jsfiddle.net/user/megurock/fiddles/)
+[幸治さん](https://jsfiddle.net/user/kojijiy/fiddles/)
+[吉原さん](https://jsfiddle.net/user/yshrkn/fiddles/)　
+[横山さん](https://jsfiddle.net/user/bfr_chan/fiddles/)　
+[岩上さん](https://jsfiddle.net/user/iwagami/fiddles/)　
+[高田さん](https://jsfiddle.net/user/takada_yoshiki/fiddles/)　
